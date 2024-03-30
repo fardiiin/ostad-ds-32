@@ -1,2 +1,2 @@
-# ostad-ds-32
-Files related to Ostad Data Science program
+## Ostad - Data Science Certificate Program
+Program Details: [ostad.app](https://ostad.app/course/data-science-with-python)
